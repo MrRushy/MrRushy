@@ -83,5 +83,5 @@ The project applies core data structures and sorting techniques to organize vehi
 
 ## Contact
 
-- GitHub: [github.com/MrRushy](https://github.com/MrRushy)
+- Handshake: https://nyit.joinhandshake.com/profiles/rushil
 - Email: rshanmugwrk@gmail.com
