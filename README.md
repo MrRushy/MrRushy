@@ -74,7 +74,7 @@ The project applies core data structures and sorting techniques to organize vehi
 ---
 
 ## Currently Working On
-
+- Currently building JobStar, a full-stack job search management platform using React, TypeScript, Spring Boot, and PostgreSQL.
 - Building and improving my software engineering portfolio
 - Strengthening my Java, Android, SQL, and database development skills
 - Preparing for internship and entry-level software/IT opportunities
