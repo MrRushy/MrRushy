@@ -31,6 +31,8 @@ A full-stack job application tracker built with React, TypeScript, Java, Spring 
 
 [View Repository](https://github.com/MrRushy/JobStar)
 
+---
+
 ### AttendEase Campus Companion
 **Kotlin | Android Studio | Firebase/Firestore | Google Maps SDK | OpenStreetMap | Python**
 
