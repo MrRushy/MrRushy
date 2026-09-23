@@ -1,4 +1,4 @@
-# Hi, I'm Rushil Shanmugam 👋
+# Hi, I'm Rushil Shanmugam 
 
 I'm a Computer Science student at New York Institute of Technology, expected to graduate in May 2026. I build practical software projects using Java, Kotlin, SQL, Android, Firebase, and MySQL, with a focus on mobile development, database-backed applications, and real-world problem solving.
 
@@ -20,6 +20,16 @@ I'm currently looking for internship or entry-level opportunities in software en
 
 
 ## Featured Projects
+### JobStar — Job Application Tracker
+A full-stack job application tracker built with React, TypeScript, Java, Spring Boot, and PostgreSQL.
+
+- Track applications, interviews, contacts, follow-ups, job descriptions, and resume versions
+- Secure authentication and user-specific data access with Spring Security
+- Search, filtering, sorting, and dashboard pipeline metrics
+- Backend integration testing with JUnit 5 and MockMvc
+- Currently in active development with deployment planned
+
+[View Repository](https://github.com/MrRushy/JobStar)
 
 ### AttendEase Campus Companion
 **Kotlin | Android Studio | Firebase/Firestore | Google Maps SDK | OpenStreetMap | Python**
